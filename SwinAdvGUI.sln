@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdvGUI", "SwinAdvGUI\SwinAdvGUI.csproj", "{277EE741-8B57-491D-995A-2A4BFC5367CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{277EE741-8B57-491D-995A-2A4BFC5367CF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{277EE741-8B57-491D-995A-2A4BFC5367CF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{277EE741-8B57-491D-995A-2A4BFC5367CF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{277EE741-8B57-491D-995A-2A4BFC5367CF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E90975-8F3F-404A-94CE-2D7E59A6864E}
+	EndGlobalSection
+EndGlobal
